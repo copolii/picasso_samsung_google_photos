@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SamsungRotate</string>
+    <string name="title_activity_main">Samsung Rotate</string>
+    <string name="select_camera">Select Camera</string>
+    <string name="image_capture_failed">Image capture failed.</string>
+    <string name="image_capture_cancelled">Image capture cancelled</string>
+    <string name="needs_rotation">Rotate by %1$d°?</string>
+    <string name="rotate">Rotate</string>
+</resources>
